@@ -1,4 +1,4 @@
-package com.jgeorge.springsecurityjwtdemo;
+package com.jgeorge.springsecurityjwtdemo.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
